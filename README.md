@@ -1,6 +1,6 @@
 # 🎉 Digital Birthday Card  
 
-![License](https://img.shields.io/badge/License-Free-green) ![Status](https://img.shields.io/badge/Status-Completed-blue) ![Demo](https://img.shields.io/badge/Live-Demo-orange)  
+![License](https://img.shields.io/badge/License-Free-green) ![Status](https://img.shields.io/badge/Status-Completed-blue) ![Demo](https://faqihmawardi5.github.io/kartu_ucapan_ultah/)  
 
 **Created by:** Faqih Mawardi – Web Programmer  
 **Year:** 2024  
