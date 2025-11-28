@@ -1,6 +1,6 @@
 # 🎉 Digital Birthday Card  
 
-![License](https://img.shields.io/badge/License-Free-green) ![Status](https://img.shields.io/badge/Status-Completed-blue) ![Demo](https://faqihmawardi5.github.io/kartu_ucapan_ultah/)  
+![License](https://img.shields.io/badge/License-Free-green) ![Status](https://img.shields.io/badge/Status-Completed-blue)
 
 **Created by:** Faqih Mawardi – Web Programmer  
 **Year:** 2024  
@@ -9,7 +9,8 @@
 
 ## 🌟 Overview  
 
-This is a **personalized digital birthday card** 🎂 created as a **fun, interactive, and visually appealing web project**.  
+This is a **personalized digital birthday card** 🎂 created as a **fun, interactive, and visually appealing web project**.
+Demo: https://faqihmawardi5.github.io/kartu_ucapan_ultah/
 
 ✨ **Highlights:**  
 
